@@ -1,0 +1,7 @@
+cac canh cua cay khung be nhat:
+2 3
+0 2
+4 5
+0 4
+0 1
+tong trong so: 12
